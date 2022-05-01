@@ -30,7 +30,8 @@ ____________________________________________________________________
 ### Workflow:   
 **Understanding the business problem and potential solution**  
 1- Understand the order process *``(see 1.orders_process_flowchart)``*  
-2- Propose KPIs that would be useful for tracking the performance processes overall and at each stage *``(see 2.kpis)``*  
+2- Propose KPIs that would be useful for tracking the performance processes overall and at each stage   
+*``(see 2.kpis)``*  
   
 **Exploring the data**  
 3- Perform an EDA to describe what data exists including descriptive statistics, identifying missing values and any outliers.  
