@@ -1,4 +1,6 @@
-# Business understanding and extracting information from the order process for a Muesli company
+# Business understanding 
+Extracting information from the order process for a Muesli company
+____________________________________________________________________
 # Exploratory Data Analysis
 
 Objective: Business Understanding and extracting information from customer briefing  
@@ -23,22 +25,24 @@ Customers can pay for Express Processing that means the orders leave on the truc
 
 The logistics company has said they have on average 3 day delivery times to all locations. They transport goods on weekends but only deliver to customers from their local distribution centers on weekdays. The Muesli company has some data about exact delivery dates for a number of shipments that was gathered via marketing promotions they ran where customers scanned a QR code on the package in order to register for a prize. (We assume customers always scanned the code on the day of arrival).
 
+____________________________________________________________________
+
 ### Workflow:   
 **Understanding the business problem and potential solution**  
-1. Understand the order process (see 1.orders_process_flowchart)
-2. Propose KPIs that would be useful for tracking the performance processes overall and at each stage (see 2.kpis)  
+1- Understand the order process *``(see 1.orders_process_flowchart)``*  
+2- Propose KPIs that would be useful for tracking the performance processes overall and at each stage *``(see 2.kpis)``*  
   
 **Exploring the data**  
-3. Perform an EDA to describe what data exists including descriptive statistics, identifying missing values and any outliers.
-4. Preparing data by combining and plotting to generate the data needed to validate the assumptions and measure the KPIs.   
+3- Perform an EDA to describe what data exists including descriptive statistics, identifying missing values and any outliers.  
+4- Preparing data by combining and plotting to generate the data needed to validate the assumptions and measure the KPIs.     
   
 **Validating the solution**  
-5. Further exploratory data analysis to understand the time taken in each step in the order process and the range of values for each KPI. 
-6. Evaluate whether the data align with the explanations of the processes given by the company and identify any steps that have ‘concerning’ levels of reliability.  
+5- Further exploratory data analysis to understand the time taken in each step in the order process and the range of values for each KPI.   
+6- Evaluate whether the data align with the explanations of the processes given by the company and identify any steps that have ‘concerning’ levels of reliability.    
   
-**Visualise and Communicate** 
-7. The Jupiter Notebook contains findings, code, and visualisations that can be delivered to the customer (see 3.muesli_V.2.ipnyb)
-8. Slides for stakeholders presentation (see 4.slides_findings)
+**Visualise and Communicate**   
+7- The Jupiter Notebook contains findings, code, and visualisations that can be delivered to the customer *``(see 3.muesli_V.2.ipnyb)``*  
+8- Slides for stakeholders presentation *``(see 4.slides_findings)``*
   
 
 
